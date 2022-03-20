@@ -1,0 +1,18 @@
+created: 20210620035323652
+creator: WQ2030
+modified: 20220311102724886
+modifier: WQ2030
+title: 策略实例
+tmap.id: 7ae00d89-47b8-4367-b9e6-e8880f32df75
+type: text/vnd.tiddlywiki
+
+<<image-basic "2021-06-20_115037.png" caption:"策略实例参考图" align:"right" tooltip:" demo of image-basic macro">>
+
+#趋势分析：
+#*①趋势：主趋势下跌，中期趋势横向震荡。
+#*②支撑：回调到5.00-5.50有支撑。周收盘价超6.5则会上涨，周收盘价超7.1，趋势反转确认。
+
+#策略计划：
+#*①价格跌到5.00-5.5支撑，买多。
+#*②周收盘价超过6.50，加多。
+#*③周收盘价突破7.10，反转信号确认，可加多。

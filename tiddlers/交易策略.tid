@@ -1,0 +1,20 @@
+created: 20220311093721494
+creator: TidGiUser
+modified: 20220311093801806
+modifier: TidGiUser
+tags: 期货
+title: 交易策略
+tmap.id: 70daffd4-907e-4eba-b150-05d5f3cb1659
+type: text/vnd.tiddlywiki
+
+<div class="flex-row">
+    <div class="flex-col-3 border-right"><$tidgraph start={{!!title}} maxdepth="1" mode="MyMode" nodetemplate="RedTemplate "/></div>
+<div class="flex-col-2" style=margin:auto>
+
+* [[买强卖弱]]
+* [[价格倒置]]
+* [[逆势交易]]
+* [[策略实例]]
+</div>
+</div>
+<<alert primary src:"{{!!title}}，" class:"leftbar border-primary">>

@@ -1,0 +1,10 @@
+created: 20220311102346621
+creator: WQ2030
+modified: 20220311102446757
+modifier: WQ2030
+tags: 交易策略
+title: 买强卖弱
+tmap.id: 8b3d05c5-309b-479c-b133-3da165cc40d6
+type: text/vnd.tiddlywiki
+
+<<alert primary src:"{{!!title}}，是指在任何一个市场中，或两个相关的市场中，同时做多趋势最强的期货，做空趋势最弱的期货。" class:"leftbar border-primary">>

@@ -1,0 +1,11 @@
+created: 20220311102836973
+creator: WQ2030
+modified: 20220311102843949
+modifier: WQ2030
+tags: 策略1
+title: 平仓
+tmap.id: b6a279bf-64a8-43ed-91a7-6e37c4c9447d
+type: text/vnd.tiddlywiki
+
+*在上涨趋势，价格低于前前高【不包含本定点】【绝对止损点】
+*在下跌趋势，价格高于前前低【不包含本定点】【绝对止损点】

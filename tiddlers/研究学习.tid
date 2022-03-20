@@ -1,0 +1,10 @@
+created: 20220311095403830
+creator: TidGiUser
+modified: 20220312114528465
+modifier: WQ2030
+tags: 期货
+title: 研究学习
+tmap.id: 29d3f4bb-6f51-469f-a259-45bcf9694900
+type: text/vnd.tiddlywiki
+
+<$tidgraph start={{!!title}} maxdepth="2"  nodetemplate="RedTemplate "/>

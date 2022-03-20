@@ -1,0 +1,17 @@
+created: 20220311102235318
+creator: WQ2030
+modified: 20220311102250781
+modifier: WQ2030
+tags: 常见规律
+title: 价格倒置
+tmap.id: 2847388a-8003-4676-b3a2-247bd5bcfcc1
+type: text/vnd.tiddlywiki
+
+<div class="flex-row">
+    <div class="flex-col-3 border-right"><$tidgraph start={{!!title}} maxdepth="1" nodetemplate="RedTemplate "/></div>
+<div class="flex-col-2" style=margin:auto>
+
+*预示[[供不应求]]。
+</div>
+</div>
+<<alert primary src:"{{!!title}}，是指近期期货涨势比远期期货的价格涨势要凶猛，最后近期期货价格比远期期货高的现象。" class:"leftbar border-primary">>

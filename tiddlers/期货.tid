@@ -1,0 +1,17 @@
+caption: 期货
+created: 20220311095204286
+creator: TidGiUser
+modified: 20220311103645974
+modifier: WQ2030
+title: 期货
+tmap.id: 206abf93-8246-46fd-b1cd-4ba3705a20d3
+type: text/vnd.tiddlywiki
+
+<div class="flex-row">
+<div class="flex-col-3 border-right"><$tidgraph start={{!!caption}} maxdepth="1" nodetemplate="RedTemplate " nodetitle={{caption}}/></div>
+<div class="flex-col-2" style=margin:auto>
+
+
+</div>
+</div>
+<<alert primary src:"{{!!title}}，" class:"leftbar border-primary">>

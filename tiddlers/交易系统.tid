@@ -1,0 +1,17 @@
+created: 20220311095251350
+creator: TidGiUser
+modified: 20220311101444653
+modifier: WQ2030
+tags: 期货
+title: 交易系统
+tmap.id: 605ad96f-b819-4462-8b22-b41797a8ad25
+type: text/vnd.tiddlywiki
+
+<div class="flex-row">
+    <div class="flex-col-3 border-right"><$tidgraph start={{!!title}} maxdepth="2" mode="MyMode" nodetemplate="RedTemplate "/></div>
+<div class="flex-col-2" style=margin:auto>
+
+*首先要在本地测试确实可行，然后再运用到实际中。
+</div>
+</div>
+<<alert primary src:"{{!!title}}，" class:"leftbar border-primary">>

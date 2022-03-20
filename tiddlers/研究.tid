@@ -1,0 +1,18 @@
+caption: 研究
+created: 20220311095536573
+creator: TidGiUser
+modified: 20220311101248461
+modifier: TidGiUser
+tags: 研究学习
+title: 研究
+tmap.id: 2cd2cab7-2356-433c-8617-a0f7f5de887e
+type: text/vnd.tiddlywiki
+
+<div class="flex-row">
+<div class="flex-col-3 border-right"><$tidgraph start={{!!caption}} maxdepth="2" nodetemplate="RedTemplate " nodetitle={{caption}}/></div>
+<div class="flex-col-2" style=margin:auto>
+
+
+</div>
+</div>
+<<alert primary src:"{{!!title}}，" class:"leftbar border-primary">>

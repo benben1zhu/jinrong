@@ -1,0 +1,14 @@
+created: 20220311095809790
+creator: TidGiUser
+modified: 20220315125233932
+modifier: WQ2030
+tags: 学习
+title: 交易系统1
+tmap.id: b7b0987d-fce3-4ce5-95db-40286e7544c5
+type: text/vnd.tiddlywiki
+
+#前15分钟不要开仓
+# 通过5分钟低点逐渐升高或降低判断当前趋势
+#根据趋势在支撑或压力位确立入场点
+#入场并设定止损
+#逐渐提高止损点，直到被市场带出止盈。

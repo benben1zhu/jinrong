@@ -1,0 +1,18 @@
+caption: 笔记模板
+created: 20220311100135904
+creator: TidGiUser
+modified: 20220312015309383
+modifier: TidGiUser
+tags: $:/tags/TextEditor/Snippet
+title: 笔记模板
+tmap.id: a752f2cc-34e3-489c-bb07-62259428d9cc
+type: text/vnd.tiddlywiki
+
+<div class="flex-row">
+<div class="flex-col-3 border-right"><$tidgraph start={{!!caption}} maxdepth="2" mode="MyMode" nodetemplate="RedTemplate " nodetitle={{caption}}/></div>
+<div class="flex-col-2" style=margin:auto>
+
+
+</div>
+</div>
+<<alert primary src:"{{!!title}}，" class:"leftbar border-primary">>
